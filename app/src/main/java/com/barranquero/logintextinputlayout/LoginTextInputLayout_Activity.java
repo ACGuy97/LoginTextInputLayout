@@ -71,6 +71,8 @@ public class LoginTextInputLayout_Activity extends AppCompatActivity implements 
         // Checking the persistence of the Application object
         if (((LoginTextInputLayout_Application)this.getApplicationContext()).getUser() != null)
             Log.d(TAG, ((LoginTextInputLayout_Application)this.getApplicationContext()).getUser().toString());
+
+        Log.d(TAG, "Initialised Activity");
     }
 
     /**

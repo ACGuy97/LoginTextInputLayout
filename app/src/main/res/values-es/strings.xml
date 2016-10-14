@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginTextInputLayout</string>
+    <string name="txvPassword">Contraseña</string>
+    <string name="txvUser">Usuario</string>
+    <string name="messageUser">Introduzca el nombre de usuario</string>
+    <string name="messagePassword">Introduzca la contraseña</string>
+    <string name="cbxRemember">Recordarme</string>
+</resources>
